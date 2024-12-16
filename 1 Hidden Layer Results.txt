@@ -1,0 +1,50 @@
+1 Hidden Layer Results
+
+[{'model': <keras.src.engine.sequential.Sequential at 0x7e7528d1f7f0>,
+  'hidden_layers': 1,
+  'hidden_layer_neurons': [32],
+  'val_mape': 2.034914493560791,
+  'test_mape': 2.2843241691589355,
+  'training_loss': 0.002432066248729825,
+  'test_loss': 0.013025120832026005,
+  'val_loss': 0.007064864970743656
+Test set results:
+  Mean Absolute Percentage Error (MAPE) for Target 1: 2.8687742724981082 %
+  Mean Absolute Percentage Error (MAPE) for Target 2: 0.7512865447099383 %
+  Mean Absolute Percentage Error (MAPE) for Target 3: 3.2329118510540966 %},
+ {'model': <keras.src.engine.sequential.Sequential at 0x7e751a3c3d90>,
+  'hidden_layers': 1,
+  'hidden_layer_neurons': [24],
+  'val_mape': 2.0488595962524414,
+  'test_mape': 2.1095709800720215,
+  'training_loss': 0.002811935730278492,
+  'test_loss': 0.01271191705018282,
+  'val_loss': 0.008024732582271099
+Test set results:
+  Mean Absolute Percentage Error (MAPE) for Target 1: 2.521717364037672 %
+  Mean Absolute Percentage Error (MAPE) for Target 2: 0.7944335685629453 %
+  Mean Absolute Percentage Error (MAPE) for Target 3: 3.0125626197772624 %},
+ {'model': <keras.src.engine.sequential.Sequential at 0x7e7528ec0fa0>,
+  'hidden_layers': 1,
+  'hidden_layer_neurons': [16],
+  'val_mape': 2.375886917114258,
+  'test_mape': 2.587143659591675,
+  'training_loss': 0.0028671312611550093,
+  'test_loss': 0.013925219886004925,
+  'val_loss': 0.006425363011658192
+Test set results:
+  Mean Absolute Percentage Error (MAPE) for Target 1: 3.1324579361240454 %
+  Mean Absolute Percentage Error (MAPE) for Target 2: 0.8439734468357796 %
+  Mean Absolute Percentage Error (MAPE) for Target 3: 3.78500100168972 %},
+ {'model': <keras.src.engine.sequential.Sequential at 0x7e751a205f60>,
+  'hidden_layers': 1,
+  'hidden_layer_neurons': [8],
+  'val_mape': 4.108321666717529,
+  'test_mape': 4.1491780281066895,
+  'training_loss': 0.006335187237709761,
+  'test_loss': 0.015808692201972008,
+  'val_loss': 0.01136664766818285
+Test set results:
+  Mean Absolute Percentage Error (MAPE) for Target 1: 4.77327025948597 %
+  Mean Absolute Percentage Error (MAPE) for Target 2: 0.7733330956864671 %
+  Mean Absolute Percentage Error (MAPE) for Target 3: 6.900933110019275 %}]
